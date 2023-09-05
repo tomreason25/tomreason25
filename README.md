@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm currenty playing around with some data visualizations!
 <!--
 **tomreason25/tomreason25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
